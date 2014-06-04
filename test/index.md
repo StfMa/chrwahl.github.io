@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: default
 title: Quick-start guide
 prev_section: home
 next_section: installation
