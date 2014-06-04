@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Quick-start guide
-prev_section: home
-next_section: installation
-permalink: /docs/quickstart/
+permalink: /test/
 ---
 
 For the impatient, here's how to get a boilerplate Jekyll site up and running.
@@ -19,8 +17,3 @@ For the impatient, here's how to get a boilerplate Jekyll site up and running.
 That's nothing, though. The real magic happens when you start creating blog
 posts, using the front-matter to control templates and layouts, and taking
 advantage of all the awesome configuration options Jekyll makes available.
-
-If you're running into problems, ensure you have all the [requirements
-installed][Installation].
-
-[Installation]: /docs/installation/
