@@ -2,4 +2,7 @@
 layout: default
 title: textarea
 ---
-<textarea style=""></textarea>
+<div style="display:flex">
+	<textarea style="width:50%;height:300px" name="text"></textarea>
+	<div id="preview"></div>
+</div>
